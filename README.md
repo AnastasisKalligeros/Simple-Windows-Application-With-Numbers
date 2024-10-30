@@ -2,7 +2,7 @@
 
 A project that was developed as a university assignment for the subject "Object Oriented Application Development".
 
-The application was implemented in Visual C# visual-parallel programming language and as a development tool Visual Studio was chosen as the application's development tool.
+The application was implemented in Visual C# visual-parallel programming language and as a development tool Visual Studio was chosen.
 
 <b>Ιnstallation Ιnstructions:</b>
 
